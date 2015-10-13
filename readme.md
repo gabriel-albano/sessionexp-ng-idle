@@ -1,4 +1,4 @@
-session-exp-ng-iddle
+sessionexp-ng-iddle
 ====================
 
 Responding to idle users using ng-idle (http://hackedbychinese.github.io/ng-idle) and  Bootstrap with a Bootswatch theme.
